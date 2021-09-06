@@ -1,3 +1,3 @@
 # TryHackMe
 
-I Will share writeups i wrote
+I will share writeups i wrote
